@@ -7,4 +7,4 @@ We are creating the disentangled representation learning notebook collection her
 ### Metrics
 | Metric | Concept-based | Notebook |
 |--------|--|-|
-| TCAV | Concept | |
+| TCAV | Concept | [concept_metric_TCAV.ipynb](https://github.com/Chrisini/decentnet/blob/master/concept_metric_TCAV.ipynb) |
